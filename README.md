@@ -12,7 +12,7 @@
 
 ### 2: Git Hub
 
-- **Description:** A web application to manage daily tasks with user authentication and real-time updates.
+- **Git Hub:** เป็นแพลตฟอร์มที่ใช้ในการจัดการและเก็บข้อมูลโค้ดโปรแกรม โดยทำงานร่วมกับ Git ซึ่งเป็นระบบควบคุมเวอร์ชันที่ช่วยให้สามารถติดตามการเปลี่ยนแปลงของไฟล์โปรแกรมได้อย่างมีประสิทธิภาพ 
 
 
 ### 3: MySql 
