@@ -6,7 +6,8 @@
 
 ### 1: Basic Golang
 
-- **Description:** A responsive portfolio website to showcase my projects and skills.
+- **Golang:** Golang หรือ Go คือภาษาโปรแกรมที่พัฒนาโดย Google ซึ่งถูกออกแบบมาเพื่อให้เป็นภาษาที่ง่ายต่อการเรียนรู้ มีประสิทธิภาพสูง และรองรับการพัฒนาซอฟต์แวร์ขนาดใหญ่ได้ดี
+- **ประสิทธิภาพสูง:** Golang ถูกคอมไพล์เป็นโค้ดเครื่องทำให้มีประสิทธิภาพในการทำงานที่สูงกว่าโปรแกรมที่ใช้ภาษาสคริปต์
 
 
 ### 2: Git Hub
@@ -33,4 +34,4 @@
 
 ## Resume
 
-[Download Resume](https://example.com/resume.pdf)
+[Download Resume](https://github.com/pativatkongsawat)
