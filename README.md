@@ -17,12 +17,9 @@
 
 ### 3: MySql 
 
-- **Description:** A cross-platform mobile app for an e-commerce platform with payment integration.
 
 
 ### 4: Gorm
-
-- **Description:** A blog platform with content management and user comments.
 
 
 ## Contact
