@@ -26,10 +26,10 @@
 
 ## Contact
 
-- **Email:** johndoe@example.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/johndoe)
-- **GitHub:** [GitHub Profile](https://github.com/johndoe)
-- **Twitter:** [Twitter Profile](https://twitter.com/johndoe)
+- **Email:** Pativat.k@kkumail.com
+- **LinkedIn:** [LinkedIn Profile](https://github.com/pativatkongsawat)
+- **GitHub:** [GitHub Profile](https://github.com/pativatkongsawat)
+- **Twitter:** [Twitter Profile](https://github.com/pativatkongsawat)
 
 ## Resume
 
