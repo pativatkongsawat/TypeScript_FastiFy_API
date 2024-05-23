@@ -14,12 +14,12 @@
 - **Description:** A web application to manage daily tasks with user authentication and real-time updates.
 
 
-### Project 3: E-commerce Mobile App
+### 3: MySql 
 
 - **Description:** A cross-platform mobile app for an e-commerce platform with payment integration.
 
 
-### Project 4: Blog Platform
+### 4: Gorm
 
 - **Description:** A blog platform with content management and user comments.
 
